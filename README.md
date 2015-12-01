@@ -1,1 +1,0 @@
-este es un fichero de prueba a ver si funciona
